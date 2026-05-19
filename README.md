@@ -47,5 +47,5 @@ Bridging physical theories with data science workflows:
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](linkedin.com/in/himansu-sekhar-87502939a)
-- 📧 [Email](h.sekhargithub2026@gmail.com)
+- 💼 LinkedIn - Himansu Sekhar
+- 📧 Email - h.sekhargithub2026@gmail.com
